@@ -1,0 +1,12 @@
+.boutonFiltre {
+  padding: 16px 24px 16px 24px;
+  border: 1px solid;
+  width: 300px;
+  font-size: 25px;
+}
+
+.bouton-card {
+  display: flex;
+  justify-content: space-around;
+  gap: 150px;
+}

@@ -1,0 +1,47 @@
+.paragraphe-button {
+  display: flex;
+  flex-direction: column;
+}
+
+.paragraphe-button p {
+  font-family: Inter;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 100px;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+}
+
+.paragraphe-button {
+  width: Hug (449px) px;
+  height: Hug (470px) px;
+  top: 100px;
+  left: 100px;
+  gap: 24px;
+  opacity: 0px;
+}
+
+.all-element {
+  display: flex;
+  justify-content: space-around;
+}
+
+.image {
+  width: 564px;
+  height: 549px;
+  top: 100px;
+  left: 559px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.all-element {
+  width: Fixed (1, 440px) px;
+  height: Hug (649px) px;
+  padding: 0px 100px 0px 100px;
+  gap: 10px;
+  border-radius: 60px;
+  opacity: 0px;
+
+  background-color: #491e4b1a;
+}

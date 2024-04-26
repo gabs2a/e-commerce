@@ -1,0 +1,55 @@
+.exterieur {
+  /* width: 440px;
+  height: 741px; */
+  padding: 100px 0px 0px 0px;
+  gap: 150px;
+  opacity: 0px;
+}
+
+.men-watch {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-family: Inter;
+  font-size: 56px;
+  font-weight: 500;
+  line-height: 64px;
+  text-align: left;
+}
+
+.men-watch {
+  gap: 60px;
+}
+
+.all-card {
+  width: 402px;
+  height: 500px;
+  padding: 100px 0px 0px 60px;
+  opacity: 0px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  padding-right: 110px;
+  padding: 0px 200px 150px 100px;
+}
+
+.card {
+  width: Fill (1, 240px) px;
+  height: Hug (598px) px;
+  gap: 16px;
+  opacity: 0px;
+}
+
+.category {
+  padding-left: 60px;
+}
+
+.category {
+  width: 1000 px;
+  height: Hug (710px) px;
+  gap: 48px;
+}

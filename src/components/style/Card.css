@@ -1,0 +1,60 @@
+.image {
+  width: 398px;
+  height: 500px;
+}
+
+.marque-prix {
+  display: flex;
+  justify-content: space-between;
+}
+
+.marque-prix {
+  width: 400px;
+  height: 82px;
+  gap: 16px;
+}
+
+.titre h1 {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.05px;
+  text-align: left;
+}
+
+.prix {
+  padding-right: 60px;
+}
+
+.titre h3 {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.prix {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29.05px;
+  text-align: left;
+}
+
+/* .all-card {
+  /* width: 330spx; */
+/* height: 598px;
+  gap: 16px;
+  opacity: 0px;
+} */
+*/ .image {
+  width: Fill (1, 240px) px;
+  height: Hug (598px) px;
+  gap: 16px;
+  opacity: 0px;
+  object-fit: cover;
+}
+.image {
+  object-fit: cover;
+}

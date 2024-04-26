@@ -1,0 +1,26 @@
+.btn {
+  background: #491e4b;
+  color: white;
+  font-family: Inter;
+}
+
+.btn {
+  width: Hug (326px) px;
+  height: Hug (46px) px;
+  padding: 12px 24px 12px 24px;
+  gap: 24px;
+  border-radius: 50px 50px 50px 50px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.btn {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  text-align: left;
+}
+
+.btn-image {
+  gap: 24px;
+}

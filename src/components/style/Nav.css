@@ -1,0 +1,30 @@
+.header-nav {
+  width: Fill (1, 440px) px;
+  height: Hug (75px) px;
+  padding: 24px 0px 24px 100px;
+}
+/* nav {
+  width: 97px;
+  height: 27px;
+  gap: 0px;
+  opacity: 0px;
+} */
+
+.header-nav ul li a {
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 26.63px;
+  letter-spacing: 0.01em;
+}
+
+.header-nav ul li {
+  display: flex;
+  justify-content: flex-end;
+  gap: 64px;
+  /* padding-right: 50px; */
+}
+
+.lien {
+  padding-left: 50px;
+}

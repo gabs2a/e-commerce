@@ -1,0 +1,13 @@
+.headline p {
+  font-family: Inter;
+  font-size: 56px;
+  font-weight: 500;
+  line-height: 64px;
+  text-align: left;
+}
+
+.headline p {
+  width: 285px;
+  height: 64px;
+  padding-left: 100px;
+}
